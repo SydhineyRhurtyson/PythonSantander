@@ -59,3 +59,9 @@ Os operadores lógicos são utilizados para combinar expressões condicionais e 
 - AND (and): devolve True se ambas as condições são verdadeiras.
 - OR (or): devolve True se ao menos uma das condições é verdadeira.
 - NOT (not): inverte o valor de uma condição, devolve True se a condição é falsa e False se a condição é verdadeira.
+****
+|                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Importante**                                                                                                                                                                                                                                                    |
+|  Python segue as regras de precedência de operadores, onde certos operadores têm prioridade sobre outros. Em geral, a precedência segue a ordem: parênteses, exponenciação, multiplicação/divisão, soma/subtração, operadores de comparação e operadores lógicos. |
+
