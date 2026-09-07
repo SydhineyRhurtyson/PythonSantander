@@ -14,3 +14,4 @@
 # else:
 #      resultado = "Impar"
 # print(resultado)
+print((not True)or (False and True))
