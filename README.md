@@ -65,3 +65,41 @@ Os operadores lógicos são utilizados para combinar expressões condicionais e 
 | **Importante**                                                                                                                                                                                                                                                    |
 |  Python segue as regras de precedência de operadores, onde certos operadores têm prioridade sobre outros. Em geral, a precedência segue a ordem: parênteses, exponenciação, multiplicação/divisão, soma/subtração, operadores de comparação e operadores lógicos. |
 
+****
+## **Estruturas condicionais**
+
+As estruturas condicionais nos permitem executar diferentes blocos de código segundo se cumpra ou não uma determinada condição. Em Python, as estruturas condicionais mais utilizadas são if, if-else e if-elif-else.
+****
+#  Loops
+## **For**
+
+O loop for é utilizado para iterar sobre uma sequência (como uma lista, uma tupla ou uma string) ou qualquer objeto iterável. A sintaxe básica é a seguinte:
+
+	for variável in sequência:  
+		 # Bloco de código a repetir  
+		 instruções
+
+## **While**
+
+O loop while é utilizado para repetir um bloco de código enquanto uma condição for verdadeira. A sintaxe básica é a seguinte:
+
+	while condição:  
+	    # Bloco de código a repetir  
+	    instruções
+## **Controle de loops**
+
+Python fornece algumas instruções especiais para controlar o fluxo de execução dentro dos loops:
+
+- Break
+
+A instrução break é utilizada para sair prematuramente de um loop, independentemente da condição. Quando um break é encontrado, o loop é interrompido e o fluxo de execução continua com a próxima instrução fora do loop
+
+- Continue
+
+A instrução continue é utilizada para pular o restante do bloco de código dentro de um loop e passar para a próxima iteração.
+- Pass
+
+A instrução pass é uma operação nula que não faz nada. É utilizada como um marcador de posição quando uma instrução é sintaticamente necessária, mas nenhuma ação é desejada.
+
+****
+
