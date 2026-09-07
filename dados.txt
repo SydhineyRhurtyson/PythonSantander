@@ -1,0 +1,4 @@
+nome: Maria
+idade: 18
+escolaridade: faculdade
+estado: MG
